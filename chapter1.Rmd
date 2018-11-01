@@ -2,3 +2,13 @@
 # About the project
 
 *Write a short description about the course and add a link to your github repository here. This is an R markdown (.Rmd) file so you can use R markdown syntax. See the 'Useful links' page in the mooc area (chapter 1) for instructions.*
+
+I look forward to improving my skills for writing R and to learning statistics and GitHub. I am also excited about writing R in Rmd format. I've been using *jupyter notebook* to write both Python and R (limited experiences), but I am interested in comparing the pros and cons of both methods. 
+
+# Link to my GitHub repository
+https://github.com/jinsplichal/IODS-project
+
+# Testing Rmd
+```{r R_chunk_test}
+head(iris)
+```
